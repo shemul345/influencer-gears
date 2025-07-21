@@ -26,6 +26,10 @@
     padding: 10px 20px;
     border-radius: 41px;
     border: none;
+    transition: all .3s;
+}
+.btn_primary:hover{
+ background-color: #18191F;
 }
 .max_width {
     max-width: 1140px;
